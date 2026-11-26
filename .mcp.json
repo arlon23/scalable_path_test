@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "wsl.exe",
+            "args": [
+                "/usr/bin/php8.4",
+                "/home/arlon/Dev/PersonalProjects/technical-tests/scalable_path_test-2/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
