@@ -1,0 +1,21 @@
+review_id,source,customer_name,customer_email,rating,review_title,review_text,review_date,response,response_date,responded_by
+REV-10481,Google,Sarah Johnson,sarah.johnson@example.com,5,Excellent experience,The whole experience was fantastic. The staff were friendly and everything was exactly as described.,2026-07-02,"Thank you for the wonderful feedback, Sarah! We're glad you had such a great experience.",2026-07-03,John Smith
+REV-10482,Tripadvisor,Michael Brown,michael.brown@example.com,3,"Good, but room for improvement","The service was friendly, although check-in took quite a while and the room wasn't ready when we arrived.",2026-07-04,,,
+REV-10483,google,Emily Davis,emily.davis@example.com,4,,Really enjoyed our visit. Everything was clean and the staff were helpful.,2026-07-05,"Thank you, Emily! We appreciate you taking the time to share your feedback.",2026-07-06,Maria Garcia
+REV-10484,Google Reviews,David Wilson,david.wilson@example.com,2,Disappointing service,"Unfortunately, we had to wait almost an hour before someone came to help us. The staff member was apologetic, but it affected the experience.",2026-07-06,,,
+REV-10485,Facebook,Jessica Martinez,jessica.martinez@example.com,5,Would definitely come back,Fantastic service and a very welcoming team. We will definitely be back.,2026-07-07,"Thanks so much, Jessica! We look forward to welcoming you back.",2026-07-08,John Smith
+REV-10486,Tripadvisor,Robert Taylor,,4,Great location,Great location and comfortable rooms. Breakfast had plenty of options too.,2026-07-09,,,
+REV-10487,Google,Linda Anderson,linda.anderson@example.com,1,Very disappointing,The room was not clean when we arrived and several things in the bathroom were broken. We expected much better.,2026/07/10,,,
+REV-10488,Facebook,James Thomas,james.thomas@example.com,4,Friendly staff,The staff were incredibly friendly and helpful throughout our stay.,2026-07-11,"We're happy to hear that, James. Thank you for your kind words!",,Maria Garcia
+REV-10489,Google,Patricia Moore,patricia.moore@example.com,5,Perfect,Everything was perfect from start to finish. Highly recommended.,2026-07-12,"Thank you, Patricia! We really appreciate the recommendation.",2026-07-13,John Smith
+REV-10490,Tripadvisor,Daniel Jackson,daniel.jackson@example.com,2,Could be better,"The facilities were fine, but the service was slower than expected.",2026-07-13,,,
+REV-10491,Google,Jennifer White,jennifer.white@example.com,,,,2026-07-14,,,
+REV-10492,Facebook,Thomas Harris,thomas.harris@example.com,3,Average experience,"Nothing particularly wrong, but there wasn't much that stood out either. The team was polite.",2026-07-15,,,
+REV-10493,Google,Barbara Martin,barbara.martin@example.com,5,Wonderful team,The team made us feel very welcome. They were attentive without being intrusive.,2026-07-16,"Thank you for the lovely review, Barbara. I'll be sure to share this with the team.",2026-07-17,Maria Garcia
+REV-10494,Tripadvisor,Christopher Thompson,christopher.thompson@example.com,4,Nice stay,A pleasant stay overall. The only issue was some noise from the street at night.,2026-07-17,,,
+REV-10495,Google,Susan Garcia,susan.garcia@example.com,3,Good value,Good value for the price. The room was basic but comfortable.,2026-07-18,"Thanks for your feedback, Susan! We're glad you found it to be good value.",2026-07-19,John Smith
+REV-10496,Google,Joseph Martinez,joseph.martinez@example.com,5,Amazing,Amazing service. Everyone went above and beyond to help us.,2026-07-19,,,
+REV-10497,Facebook,Karen Robinson,,4,Very nice,A very nice experience overall. Would recommend to friends.,2026-07-20,"Thank you, Karen! We appreciate the recommendation.",,
+REV-10498,Tripadvisor,William Clark,william.clark@example.com,2,Not what we expected,The photos looked better than the actual room. We also had trouble getting help when we needed it.,2026-07-21,,,
+REV-10499,Google,Nancy Rodriguez,nancy.rodriguez@example.com,5,Excellent service,Excellent service and attention to detail. We had a wonderful time.,2026-07-22,"Thank you for your review, Nancy! We're delighted you enjoyed your experience.",2026-07-23,Maria Garcia
+REV-10500,Google,George Lewis,george.lewis@example.com,4,Good overall,"Good overall experience. There was a minor issue at first, but it was resolved quickly.",2026-07-23,,,
